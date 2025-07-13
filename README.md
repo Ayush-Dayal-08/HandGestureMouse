@@ -1,3 +1,10 @@
+our main.exe file is splitted into 2 parts , so first u have to join them in one file .
+
+u can take help by "https://www.youtube.com/watch?v=ZqL-8Hq-Vp0" this channel video , and then u good to go
+
+
+
+
 Hand Gesture Mouse Control - Windows Application
 ================================================
 
