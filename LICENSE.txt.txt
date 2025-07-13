@@ -1,0 +1,34 @@
+Hand Gesture Mouse Control - Protected Software License
+=======================================================
+
+Copyright © 2025 Ayush Dayal
+All rights reserved.
+
+This software is licensed, not sold. Unauthorized copying, distribution,
+decompilation, modification, or use of this software or any portion thereof
+is strictly prohibited without explicit written permission from the author.
+
+LICENSE TYPE: Restricted Personal Use Only
+
+• You may run this software only with a valid license key provided by the developer.
+• Redistribution or resale is not permitted.
+• You may not reverse-engineer, disassemble, or tamper with the executable.
+• You may not remove or bypass the license key protection.
+
+Any violation of these terms may result in legal action and permanent banning
+of your license key.
+
+For academic use, demo purposes, or team distribution, please contact:
+
+📧 Email: ayushdayal.official@example.com  
+🌐 GitHub: https://github.com/ayushdayal (optional)  
+
+LICENSE CHECK:
+This software connects to an online verification server to validate each key.
+Internet access is required during the first launch and for future verification.
+
+---
+
+If you received this software without a license key, please contact the developer
+for authorized access.
+

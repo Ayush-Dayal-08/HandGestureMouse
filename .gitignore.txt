@@ -1,0 +1,32 @@
+# Bytecode and cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Obfuscated/compiled outputs
+build/
+dist/
+output/
+*.spec
+*.exe
+
+# PyInstaller/PyArmor runtime folders
+pytransform/
+*.manifest
+*.log
+*.dll
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.bak
+
+# JetBrains / VSCode IDEs
+.idea/
+.vscode/
